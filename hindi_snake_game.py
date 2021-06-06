@@ -7,7 +7,6 @@ class Snake:
         
         self.parent_screnn = parent_screen
         self.block = pygame.image.load("ressources/block.jpg").convert()
-
         self.x = 255
         self.y = 255
     
